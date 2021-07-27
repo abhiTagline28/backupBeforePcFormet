@@ -1,0 +1,18 @@
+/*
+
+Allow cors
+
+Apollo client devtools
+
+
+Grammerly for crome
+
+
+React developer tool
+
+
+Redux dev toolset
+
+wappelizer
+
+*/
